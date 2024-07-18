@@ -1,0 +1,15 @@
+print(bool(1))
+print(bool(0))
+print(bool(1j))
+print(bool(-5))
+print(bool(-111))
+print(bool(5j))
+print(bool(4444444))
+
+print('##########')
+
+print(bool(''))
+print(bool('lmao'))
+print(bool('False'))
+print(bool('True'))
+print(bool('No way'))
